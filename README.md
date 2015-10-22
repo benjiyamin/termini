@@ -1,4 +1,4 @@
-# Project Nimbus
+# Termini
 
 Termini is a lightweight terminal emulator with a built-in virtual keyboard.
 The emmulator GUI itself is built from tkinter to minimize dependencies. It is

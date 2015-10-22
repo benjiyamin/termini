@@ -1,0 +1,2 @@
+python-uinput==0.10.2
+wheel==0.24.0
